@@ -1,0 +1,7 @@
+{
+	"parent": "botania:block/shapes/pool_full",
+	"textures": {
+		"all": "botaniverse:blocks/muspelheimrock",
+		"liquid": "botaniverse:blocks/mana_water"
+	}
+}

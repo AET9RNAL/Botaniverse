@@ -1,0 +1,22 @@
+{
+  "result": {
+    "item": "botaniverse:spark_muspelheim"
+  },
+  "pattern": [
+    " R ",
+    "SRS",
+    " R "
+  ],
+  "type": "forge:ore_shaped",
+  "key":
+  {
+    "S":
+    {
+      "item": "botaniverse:spark_nilfheim"
+    },
+    "R":
+    {
+      "item": "#RUNEMUSPELHEIM"
+    }
+  }
+}

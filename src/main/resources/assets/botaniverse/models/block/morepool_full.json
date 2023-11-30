@@ -1,0 +1,12 @@
+{
+	"parent": "botania:block/shapes/pool",
+	"textures": {
+		"all": "botaniverse:blocks/muspelheimrock"
+	},
+	"overrides": [
+		{
+			"predicate": { "botaniverse:full": 1 },
+			"model": "botaniverse:block/morepool_full"
+		}
+	]
+}

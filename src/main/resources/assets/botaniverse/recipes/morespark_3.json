@@ -1,0 +1,22 @@
+{
+  "result": {
+    "item": "botaniverse:spark_asgard"
+  },
+  "pattern": [
+    " R ",
+    "SRS",
+    " R "
+  ],
+  "type": "forge:ore_shaped",
+  "key":
+  {
+    "S":
+    {
+      "item": "botaniverse:spark_alfheim"
+    },
+    "R":
+    {
+      "item": "#RUNEASGARD"
+    }
+  }
+}

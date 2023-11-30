@@ -1,0 +1,27 @@
+{
+  "result": {
+    "item": "botaniverse:morepool",
+    "data": 0
+  },
+  "pattern": [
+    "TFT",
+    "RTR"
+  ],
+  "type": "forge:ore_shaped",
+  "key":
+  {
+    "T":
+    {
+      "item": "#INGOTTERRASTEEL"
+    },
+    "R":
+    {
+      "item": "#RUNENILFHEIM"
+    },
+    "F":
+    {
+      "item": "botania:pool",
+      "data": 3
+    }
+  }
+}

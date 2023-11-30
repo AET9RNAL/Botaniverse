@@ -1,0 +1,24 @@
+{
+  "result": {
+    "item": "botaniverse:morepool",
+    "data": 3
+  },
+  "pattern": [
+    "PPP",
+    "PRP",
+    "PPP"
+  ],
+  "type": "forge:ore_shaped",
+  "key":
+  {
+    "R":
+    {
+      "item": "#RUNEASGARD"
+    },
+    "P":
+    {
+      "item": "botaniverse:morepool",
+      "data": 2
+    }
+  }
+}

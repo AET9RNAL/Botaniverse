@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "botaniverse:blocks/morerock_base_texture"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "botaniverse:morerock": "nilfheim"
+      },
+      "model": "botaniverse:block/morerock_nilfheim"
+    },
+    {
+      "predicate": {
+        "botaniverse:morerock1": "muspelheim"
+      },
+      "model": "botaniverse:block/morerock_muspelheim"
+    }
+
+  ]
+}

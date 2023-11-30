@@ -1,0 +1,26 @@
+{
+  "result": {
+    "item": "botaniverse:spark_nilfheim"
+  },
+  "pattern": [
+    " R ",
+    "BSB",
+    " R "
+  ],
+  "type": "forge:ore_shaped",
+  "key":
+  {
+    "S":
+    {
+      "item": "botania:spark"
+    },
+    "B":
+    {
+      "item": "#BLOCKBLAZE"
+    },
+    "R":
+    {
+      "item": "#RUNENILFHEIM"
+    }
+  }
+}

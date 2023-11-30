@@ -1,0 +1,44 @@
+# Header
+itemGroup.botaniverse=Botaniverse
+
+#Tiles
+tile.botaniverse:morepool0.name=Бассейн Маны Нильфхейма
+tile.botaniverse:morepool1.name=Бассейн Маны Муспельхейма
+tile.botaniverse:morepool2.name=Бассейн Маны Альфхейма
+tile.botaniverse:morepool3.name=Бассейн Маны Асгарда
+tile.botaniverse:morerock0.name=Камень Нильфхейма
+tile.botaniverse:morerock1.name=Камень Муспельхейма
+tile.botaniverse:morerock2.name=Камень Альфхейма
+tile.botaniverse:morerock3.name=Камень Асгарда
+
+tile.botaniverse:morepylon0.name=Пилон Нильфхейма
+tile.botaniverse:morepylon1.name=Пилон Муспельхейма
+tile.botaniverse:morepylon2.name=Пилон Альфхейма
+tile.botaniverse:morepylon3.name=Пилон Асгарда
+
+#Items
+item.botaniverse:spark_nilfheim.name=Искра Нильфхейма
+item.botaniverse:spark_muspelheim.name=Искра Муспельхейма
+item.botaniverse:spark_alfheim.name=Искра Альфхейма
+item.botaniverse:spark_asgard.name=Искра Асгарда
+item.botaniverse:morerune0.name=Руна Нильфхейма
+item.botaniverse:morerune1.name=Руна Муспельхейма
+item.botaniverse:morerune2.name=Руна Альфхейма
+item.botaniverse:morerune3.name=Руна Асгарда
+
+
+
+
+
+#Entities
+entity.botaniverse:spark_nilfheim.name=Искра Нильфхейма
+entity.botaniverse:spark_muspelheim.name=Искра Муспельхейма
+entity.botaniverse:spark_alfheim.name=Искра Альфхейма
+entity.botaniverse:spark_asgard.name=Искра Асгарда
+
+
+#Whatever
+botaniversemisc.NilfheimPool=Holds [10000000] Mana, Configurable
+botaniversemisc.MuspelheimPool=Holds [100000000] Mana, Configurable
+botaniversemisc.AlfheimPool=Holds [1000000000] Mana, Configurable
+botaniversemisc.AsgardPool=Holds [2147483647] Mana, Configurable

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "botaniverse",
+  "name": "Botaniverse",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AETERNAL"],
+  "dependencies": ["Botania","HammerLIB","BotanicAdditions"]
+}
+]
+
+
+

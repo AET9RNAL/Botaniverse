@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"variant=nilfheim": { "model": "botaniverse:pool_nilfheim" },
+		"variant=muspelheim": { "model": "botaniverse:pool_muspelheim" },
+		"variant=alfheim": { "model": "botaniverse:pool_alfheim" },
+		"variant=asgard": { "model": "botaniverse:pool_asgard" }
+	}
+}

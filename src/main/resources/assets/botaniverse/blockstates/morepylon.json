@@ -1,0 +1,30 @@
+{
+  "forge_marker": 1,
+  "morepool": {
+    "model": "botaniverse:dummy"
+  },
+  "variants": {
+    "variant": {
+      "nilfheim": {
+        "textures": {
+          "particle": "botaniverse:model/pylon_nilfheim"
+        }
+      },
+      "muspelheim": {
+        "textures": {
+          "particle": "botaniverse:model/pylon_muspelheim"
+        }
+      },
+      "alfheim": {
+        "textures": {
+          "particle": "botaniverse:model/pylon_alfheim"
+        }
+      },
+      "asgard": {
+        "textures": {
+          "particle": "botaniverse:model/pylon_asgard"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+	"parent": "botania:block/shapes/pool",
+	"textures": {
+		"all": "botaniverse:blocks/morepool_base_texture"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"botaniverse:morepool": "nilfheim"
+			},
+			"model": "botaniverse:block/morepool_nilfheim"
+		},
+		{
+			"predicate": {
+				"botaniverse:morepool1": "muspelheim"
+			},
+			"model": "botaniverse:block/morepool_muspelheim"
+		}
+
+	]
+}

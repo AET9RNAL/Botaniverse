@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "variant=nilfheim": { "model": "botaniverse:nilfheimrock" },
+    "variant=muspelheim": { "model": "botaniverse:muspelheimrock" },
+    "variant=alfheim": { "model": "botaniverse:alfheimrock" },
+    "variant=asgard": { "model": "botaniverse:asgardrock" }
+  }
+}
