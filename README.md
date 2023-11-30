@@ -1,25 +1,48 @@
 Botaniverse is an addon for Botania mod.
 It's utilizing Botania API:https://www.curseforge.com/minecraft/mc-mods/botania
 
+Depends on HammerLib:
+[![Depends on HammeLib](https://github.com/AET9RNAL/ModAssets/releases/download/Assets/hammer_icon.png)](https://modrinth.com/mod/hammer-lib/version/12.2.46)
 # Botaniverse - Expanding the Botanical Universe!
 
 This is an extremely flexible and configurable addon for our beloved Botania, which adds additional content into the game, such as:
 
 -Mana Pools:
 
-![1](https:pools_link)
+![1](https://github.com/AET9RNAL/ModAssets/releases/download/Assets/nilfheimicon.png) - Nilfheim Mana Pool. Stores 10 times the default Mana Pool.(Configurable)
+
+![2](https://github.com/AET9RNAL/ModAssets/releases/download/Assets/muspelheimicon.png) - Muspelheim Mana Pool. Stores 100 times the default Mana Pool.(Configurable)
+
+![3](https://github.com/AET9RNAL/ModAssets/releases/download/Assets/alfheimicon.png) - Alfheim Mana Pool. Stores 1000 times the default Mana Pool.(Configurable)
+
+![4](https://github.com/AET9RNAL/ModAssets/releases/download/Assets/asgardicon.png) - Alfheim Mana Pool. Stores 1000 times the default Mana Pool.(Configurable)
 
 -Sparks
 
-![1](https:sparks_link)
+![1](https://github.com/AET9RNAL/ModAssets/releases/download/Assets/sparknilfheimIcon.png) - Nilfheim Spark. Has a Range of 18 and capable of transferring up to 100000 Mana/t.Configurable
 
-The mod is in active development stage. Lots of new content yet to come, including: spreaders, items, blocks, portals for trading with other worlds.
+![2](https://github.com/AET9RNAL/ModAssets/releases/download/Assets/sparkmuspelheimIcon.png) - Muspelheim Spark. Has a Range of 24 and capable of transferring up to 250000Mana/t.(Configurable)
 
-This also means, that crafts WILL be changed, some stuff might be removed or added, keep that in mind.
+![3](https://github.com/AET9RNAL/ModAssets/releases/download/Assets/sparkalfheimIcon.png) -  Alfheim Spark. Has a Range of 30 and capable of transferring up to 625000Mana/t.(Configurable)
 
+![4](https://github.com/AET9RNAL/ModAssets/releases/download/Assets/sparkasgardIcon.png) -  Asgard Spark. Has a Range of 36 and capable of transferring up to 1562500Mana/t.(Configurable)
+
+Due to it's configurability this mod will become a perfect addition for modpack's developers
+
+Bear in mind that the mod is in active development stage. Things will be added, crafts WILL be changed, something might be removed.
+
+Lots of new content yet to come, including: spreaders, items, blocks, portals for trading with other worlds.
+
+Credits:
+
+Special thanks to @PrySHio for design and textures
 
 Permissions:
 
-1.You are allowed to redistribute this mod, but you must credit the download source as 'CurseForge' or 'Modrinth' if you provide a link or information about the mod.
+1.You are allowed to redistribute this mod, but you must credit the download source as 'CurseForge' or 'Modrinth' and include a direct link that leads to the page of this mod
+
 2.You can use this mod in your modpacks
+
 3.You are allowed to modify the source code of the mod
+
+
