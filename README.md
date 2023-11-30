@@ -7,7 +7,7 @@ Depends on HammerLib:
 
 This is an extremely flexible and configurable addon for our beloved Botania, which adds additional content into the game, such as:
 
--Mana Pools:
+Mana Pools:
 
 ![1](https://github.com/AET9RNAL/ModAssets/releases/download/Assets/nilfheimicon.png) - Nilfheim Mana Pool. Stores 10 times the default Mana Pool.(Configurable)
 
@@ -17,7 +17,7 @@ This is an extremely flexible and configurable addon for our beloved Botania, wh
 
 ![4](https://github.com/AET9RNAL/ModAssets/releases/download/Assets/asgardicon.png) - Alfheim Mana Pool. Stores 1000 times the default Mana Pool.(Configurable)
 
--Sparks
+Sparks:
 
 ![1](https://github.com/AET9RNAL/ModAssets/releases/download/Assets/sparknilfheimIcon.png) - Nilfheim Spark. Has a Range of 18 and capable of transferring up to 100000 Mana/t.Configurable
 
