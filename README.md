@@ -15,7 +15,7 @@ Mana Pools:
 
 ![3](https://github.com/AET9RNAL/ModAssets/releases/download/Assets/alfheimicon.png) - Alfheim Mana Pool. Stores 1000 times the default Mana Pool.(Configurable)
 
-![4](https://github.com/AET9RNAL/ModAssets/releases/download/Assets/asgardicon.png) - Alfheim Mana Pool. Stores 1000 times the default Mana Pool.(Configurable)
+![4](https://github.com/AET9RNAL/ModAssets/releases/download/Assets/asgardicon.png) - Asgard Mana Pool. Stores 2000 times the default Mana Pool.(Configurable)
 
 Sparks:
 
