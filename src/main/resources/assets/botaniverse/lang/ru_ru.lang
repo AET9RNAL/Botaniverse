@@ -11,6 +11,22 @@ tile.botaniverse:morerock1.name=Камень Муспельхейма
 tile.botaniverse:morerock2.name=Камень Альфхейма
 tile.botaniverse:morerock3.name=Камень Асгарда
 
+tile.botaniverse:morewood0.name=Древесина Нильфхейма
+tile.botaniverse:morewood1.name=Древесина Муспельхейма
+tile.botaniverse:morewood2.name=Древесина Альфхейма
+tile.botaniverse:morewood3.name=Древесина Асгарда
+
+tile.botaniverse:morewood4.name=Светящяяся древесина Нильфхейма
+tile.botaniverse:morewood5.name=Светящяяся древесина Муспельхейма
+tile.botaniverse:morewood6.name=Светящяяся древесина Альфхейма
+tile.botaniverse:morewood7.name=Светящяяся древесина Асгарда
+
+tile.botaniverse:morespreader0.name=Распространитель маны Нильфхейма
+tile.botaniverse:morespreader1.name=Распространитель маны Муспельхейма
+tile.botaniverse:morespreader2.name=Распространитель маны Альфхейма
+tile.botaniverse:morespreader3.name=Распространитель маны Асгарда
+tile.botaniverse:morespreader4.name=Творческий распространитель маны
+
 tile.botaniverse:morepylon0.name=Пилон Нильфхейма
 tile.botaniverse:morepylon1.name=Пилон Муспельхейма
 tile.botaniverse:morepylon2.name=Пилон Альфхейма

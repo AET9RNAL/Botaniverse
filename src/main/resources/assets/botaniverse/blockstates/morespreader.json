@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "variant=nilfheim": { "model": "botaniverse:spreader_nilfheim" },
+    "variant=muspelheim": { "model": "botaniverse:spreader_muspelheim" },
+    "variant=alfheim": { "model": "botaniverse:spreader_alfheim" },
+    "variant=asgard": { "model": "botaniverse:spreader_asgard" },
+    "variant=creative": { "model": "botaniverse:spreader_creative" }
+  }
+}

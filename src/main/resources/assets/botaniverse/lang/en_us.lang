@@ -10,6 +10,22 @@ tile.botaniverse:morerock0.name=Rock of Nilfheim
 tile.botaniverse:morerock1.name=Rock of Muspelheim
 tile.botaniverse:morerock2.name=Rock of Alfheim
 tile.botaniverse:morerock3.name=Rock of Asgard
+tile.botaniverse:morewood0.name=Wood of Nilfheim
+tile.botaniverse:morewood1.name=Wood of Muspelheim
+tile.botaniverse:morewood2.name=Wood of Alfheim
+tile.botaniverse:morewood3.name=Wood of Asgard
+
+tile.botaniverse:morewood4.name=Glowing wood of Nilfheim
+tile.botaniverse:morewood5.name=Glowing wood of Muspelheim
+tile.botaniverse:morewood6.name=Glowing wood of Alfheim
+tile.botaniverse:morewood7.name=Glowing wood of Asgard
+
+tile.botaniverse:morespreader0.name=Nilfheim spreader
+tile.botaniverse:morespreader1.name=Muspelheim spreader
+tile.botaniverse:morespreader2.name=Alfheim spreader
+tile.botaniverse:morespreader3.name=Asgard spreader
+tile.botaniverse:morespreader4.name=Creative spreader
+
 
 tile.botaniverse:morepylon0.name=Pylon of Nilfheim
 tile.botaniverse:morepylon1.name=Pylon of Muspelheim

@@ -1,8 +1,12 @@
 {
   "variants": {
-    "variant=nilfheim": { "model": "botaniverse:nilfheimrock" },
-    "variant=muspelheim": { "model": "botaniverse:muspelheimrock" },
-    "variant=alfheim": { "model": "botaniverse:alfheimrock" },
-    "variant=asgard": { "model": "botaniverse:asgardrock" }
+    "variant=nilfheim": { "model": "botaniverse:nilfheimwood" },
+    "variant=muspelheim": { "model": "botaniverse:muspelheimwood" },
+    "variant=alfheim": { "model": "botaniverse:alfheimwood" },
+    "variant=asgard": { "model": "botaniverse:asgardwood" },
+    "variant=nilfheimglowing": { "model": "botaniverse:nilfheimwoodglowing" },
+    "variant=muspelheimglowing": { "model": "botaniverse:muspelheimwoodglowing" },
+    "variant=alfheimglowing": { "model": "botaniverse:alfheimwoodglowing" },
+    "variant=asgardglowing": { "model": "botaniverse:asgardwoodglowing" }
   }
 }

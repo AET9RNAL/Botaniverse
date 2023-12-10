@@ -3,7 +3,6 @@ package com.aeternal.botaniverse.common.lib;
 import com.aeternal.botaniverse.Constants;
 import net.minecraft.util.ResourceLocation;
 
-
 public final class LibEntityNames {
 
     public static final String SPARK_NILFHEIM = Constants.PREFIX_MOD + "spark";

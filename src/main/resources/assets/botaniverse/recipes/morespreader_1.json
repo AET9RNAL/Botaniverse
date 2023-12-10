@@ -1,0 +1,35 @@
+{
+  "result": {
+    "item": "botaniverse:morespreader",
+    "data": 1
+  },
+  "pattern": [
+    "WWW",
+    "BSP",
+    "WWW"
+  ],
+  "type": "forge:ore_shaped",
+  "key":
+  {
+    "B":
+    {
+      "item": "botania:storage",
+      "data": 4
+    },
+    "P":
+    {
+      "item": "botania:petalblock",
+      "data": 14
+    },
+    "W":
+    {
+      "item": "botaniverse:morewood",
+      "data": 1
+    },
+    "S":
+    {
+      "item": "botaniverse:morespreader",
+      "data": 0
+    }
+  }
+}

@@ -1,4 +1,4 @@
-/*
+
 package com.aeternal.botaniverse.client.core.handler;
 
 import com.aeternal.botaniverse.Constants;
@@ -108,4 +108,4 @@ public final class ClientTickHandler {
     }
 
 }
-*/
+

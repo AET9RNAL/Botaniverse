@@ -1,5 +1,6 @@
 package com.aeternal.botaniverse.client.core.helper;
 
+import com.aeternal.botaniverse.Constants;
 import net.minecraft.client.renderer.BufferBuilder;
 import net.minecraft.client.renderer.Tessellator;
 import net.minecraft.client.renderer.texture.TextureAtlasSprite;
@@ -7,16 +8,15 @@ import net.minecraft.client.renderer.texture.TextureMap;
 import net.minecraft.client.renderer.vertex.DefaultVertexFormats;
 import net.minecraft.util.ResourceLocation;
 import org.lwjgl.opengl.GL11;
-import com.aeternal.botaniverse.client.lib.LibResources;
 
 public final class IconHelper {
 
     public static TextureAtlasSprite forName(TextureMap ir, String name) {
-        return ir.registerSprite(new ResourceLocation(LibResources.PREFIX_MOD + name));
+        return ir.registerSprite(new ResourceLocation(Constants.PREFIX_MOD + name));
     }
 
     public static TextureAtlasSprite forName(TextureMap ir, String name, String dir) {
-        return ir.registerSprite(new ResourceLocation(LibResources.PREFIX_MOD + dir + "/" + name));
+        return ir.registerSprite(new ResourceLocation(Constants.PREFIX_MOD + dir + "/" + name));
     }
 
     /**

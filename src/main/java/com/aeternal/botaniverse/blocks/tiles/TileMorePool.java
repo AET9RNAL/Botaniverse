@@ -64,7 +64,6 @@ import java.util.List;
 public class TileMorePool extends TileMod implements IManaPool, IKeyLocked, ISparkAttachable, IThrottledPacket, ITickable {
 
     public static final Color PARTICLE_COLOR = new Color(0x00C6FF);
-    public static final int MAX_MANA = 1000000;
     public static final int MAX_MANA_NILFHEIM = Config.PoolCapacityNilfheim;
     public static final int MAX_MANA_MUSPELHEIM = Config.PoolCapacityMuspelheim;
     public static final int MAX_MANA_ALFHEIM = Config.PoolCapacityAlfheim;

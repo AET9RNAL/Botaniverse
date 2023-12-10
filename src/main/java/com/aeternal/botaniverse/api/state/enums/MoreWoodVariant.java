@@ -8,7 +8,11 @@ public enum MoreWoodVariant implements IStringSerializable {
     NILFHEIM,
     MUSPELHEIM,
     ALFHEIM,
-    ASGARD;
+    ASGARD,
+    NILFHEIMGLOWING,
+    MUSPELHEIMGLOWING,
+    ALFHEIMGLOWING,
+    ASGARDGLOWING;
 
     @Override
     public String getName() {

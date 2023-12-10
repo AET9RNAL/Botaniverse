@@ -17,6 +17,16 @@ Mana Pools:
 
 ![4](https://github.com/AET9RNAL/ModAssets/releases/download/Assets/asgardicon.png) - Asgard Mana Pool. Stores 2000 times the default Mana Pool.(Configurable)
 
+Spreaders:
+
+![1](https://github.com/AET9RNAL/ModAssets/releases/download/Assets/spreader_0icon.png) - Nilfheim Mana spreader. Carries 2400 Mana per burst
+
+![2](https://github.com/AET9RNAL/ModAssets/releases/download/Assets/spreader_1icon.png) - Muspelheim Mana spreader. Carries 9600 Mana per burst
+
+![3](https://github.com/AET9RNAL/ModAssets/releases/download/Assets/spreader_2icon.png) - Alfheim Mana spreader. Carries 38400 Mana per burst
+
+![4](https://github.com/AET9RNAL/ModAssets/releases/download/Assets/spreader_3icon.png) - Asgard Mana spreader. Carries 153600 Mana per burst
+
 Sparks:
 
 ![1](https://github.com/AET9RNAL/ModAssets/releases/download/Assets/sparknilfheimIcon.png) - Nilfheim Spark. Has a Range of 18 and capable of transferring up to 100000 Mana/t.Configurable

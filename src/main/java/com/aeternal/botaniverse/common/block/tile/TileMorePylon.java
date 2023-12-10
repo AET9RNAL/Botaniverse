@@ -1,5 +1,6 @@
 package com.aeternal.botaniverse.common.block.tile;
 
+import com.aeternal.botaniverse.Botaniverse;
 import com.aeternal.botaniverse.Config;
 import com.aeternal.botaniverse.api.state.BotaniverseStateProps;
 import com.aeternal.botaniverse.api.state.enums.AlfheimPortalState;

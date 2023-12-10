@@ -22,9 +22,8 @@ import vazkii.botania.api.lexicon.multiblock.IMultiblockRenderHook;
 import vazkii.botania.api.lexicon.multiblock.Multiblock;
 import vazkii.botania.api.lexicon.multiblock.component.MultiblockComponent;
 import com.aeternal.botaniverse.client.core.handler.MultiblockRenderHandler;
-import vazkii.botania.client.core.handler.ClientTickHandler;
 import vazkii.botania.client.core.helper.ShaderHelper;
-//import com.aeternal.botaniverse.client.core.handler.ClientTickHandler;
+import com.aeternal.botaniverse.client.core.handler.ClientTickHandler;
 import javax.annotation.Nonnull;
 import java.util.Random;
 

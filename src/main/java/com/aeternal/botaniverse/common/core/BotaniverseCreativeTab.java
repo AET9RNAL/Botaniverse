@@ -42,6 +42,7 @@ public final class BotaniverseCreativeTab extends CreativeTabs {
         addBlock(ModVBlocks.morepylon);
         addBlock(ModVBlocks.morerock);
         addBlock(ModVBlocks.morewood);
+        addBlock(ModVBlocks.morespreader);
     }
 
     private void addItem(Item item) {

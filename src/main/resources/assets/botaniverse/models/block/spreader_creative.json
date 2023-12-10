@@ -1,0 +1,8 @@
+{
+  "parent": "botaniverse:block/shapes/morespreader",
+  "textures": {
+    "inside": "botaniverse:model/morespreader_item/creative_inside",
+    "side": "botaniverse:model/morespreader_item/creative_side",
+    "material": "botaniverse:blocks/alfheimwood"
+  }
+}

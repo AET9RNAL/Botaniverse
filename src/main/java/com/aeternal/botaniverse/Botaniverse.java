@@ -59,8 +59,9 @@ public class Botaniverse
         ModCraftingRecipes.init();
         ICTCompat ictc = CraftTweakerCompat.compat();
         if(ictc != null) ictc.init();
-     //   TileEntityItemStackRenderer.instance = new RenderTileMorePylon.ForwardingTEISR(TileEntityItemStackRenderer.instance);
+    //    TileEntityItemStackRenderer.instance = new RenderTileMorePylon.ForwardingTEISR(TileEntityItemStackRenderer.instance);
     }
+
 
     @EventHandler
     public void postinit(FMLPostInitializationEvent e){

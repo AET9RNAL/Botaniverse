@@ -1,7 +1,6 @@
 package com.aeternal.botaniverse.blocks;
 
 import com.aeternal.botaniverse.api.state.BotaniverseStateProps;
-import com.aeternal.botaniverse.api.state.enums.MoreRockVariant;
 import com.aeternal.botaniverse.api.state.enums.MoreWoodVariant;
 import com.aeternal.botaniverse.common.block.BlockMod;
 import com.aeternal.botaniverse.common.lib.LibBlockNames;
@@ -50,7 +49,7 @@ public class BlockMoreWood extends BlockMod implements ILexiconable {
     @Nonnull
     @Override
     public IBlockState getStateFromMeta(int meta) {
-        if (meta >= MoreRockVariant.values().length) {
+        if (meta >= MoreWoodVariant.values().length) {
             meta = 0;
         }
         return getDefaultState().withProperty(BotaniverseStateProps.MORE_WOOD_VARIANT,MoreWoodVariant.values()[meta]);
@@ -82,7 +81,7 @@ public class BlockMoreWood extends BlockMod implements ILexiconable {
     @SideOnly(Side.CLIENT)
     @Override
     public void registerModels() {
-        ModelHandler.registerBlockToState(this, MoreRockVariant.values().length);
+        ModelHandler.registerBlockToState(this, MoreWoodVariant.values().length);
     }
 
 }

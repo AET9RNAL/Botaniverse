@@ -6,7 +6,9 @@ import com.aeternal.botaniverse.client.render.entity.spark.asgard.RenderSparkAsg
 import com.aeternal.botaniverse.client.render.entity.spark.muspelheim.RenderSparkMuspelheim;
 import com.aeternal.botaniverse.client.render.entity.spark.nilfheim.RenderSpark;
 import com.aeternal.botaniverse.client.render.tile.RenderTileMorePylon;
+import com.aeternal.botaniverse.client.render.tile.RenderTileMoreSpreader;
 import com.aeternal.botaniverse.common.block.tile.TileMorePylon;
+import com.aeternal.botaniverse.common.block.tile.TileMoreSpreader;
 import com.aeternal.botaniverse.common.entity.sparks.EntitySparkAlfheim;
 import com.aeternal.botaniverse.common.entity.sparks.EntitySparkAsgard;
 import com.aeternal.botaniverse.common.entity.sparks.EntitySparkMuspelheim;
@@ -16,7 +18,6 @@ import net.minecraft.client.gui.FontRenderer;
 import net.minecraft.client.gui.Gui;
 import net.minecraft.client.model.ModelBiped;
 import net.minecraft.client.renderer.GlStateManager;
-import net.minecraft.client.renderer.tileentity.TileEntityItemStackRenderer;
 import net.minecraft.client.renderer.vertex.DefaultVertexFormats;
 import net.minecraft.client.renderer.vertex.VertexFormat;
 import net.minecraft.item.ItemStack;
@@ -27,8 +28,8 @@ import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.client.registry.ClientRegistry;
 import net.minecraftforge.fml.client.registry.RenderingRegistry;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
-//import com.aeternal.botaniverse.client.core.handler.ClientTickHandler;
-import vazkii.botania.client.core.handler.ClientTickHandler;
+import com.aeternal.botaniverse.client.core.handler.ClientTickHandler;
+
 import java.awt.*;
 
 public class ClientProxy extends CommonProxy {
@@ -64,7 +65,6 @@ public class ClientProxy extends CommonProxy {
 
 
 
-
     @Override
     public void postInit() {
         super.postInit();
@@ -78,6 +78,7 @@ public class ClientProxy extends CommonProxy {
         RenderingRegistry.registerEntityRenderingHandler(EntitySparkAlfheim.class, RenderSparkAlfheim::new);
         RenderingRegistry.registerEntityRenderingHandler(EntitySparkAsgard.class, RenderSparkAsgard::new);
         ClientRegistry.bindTileEntitySpecialRenderer(TileMorePylon.class, renderTileMorePylon);
+        ClientRegistry.bindTileEntitySpecialRenderer(TileMoreSpreader.class, new RenderTileMoreSpreader());
     }
 
 

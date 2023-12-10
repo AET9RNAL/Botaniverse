@@ -12,6 +12,7 @@ public final class BotaniverseStateProps {
     public static final PropertyEnum<MoreRockVariant> MORE_ROCK_VARIANT = PropertyEnum.create("variant", MoreRockVariant.class);
     public static final PropertyEnum<MoreWoodVariant> MORE_WOOD_VARIANT = PropertyEnum.create("variant", MoreWoodVariant.class);
     public static final PropertyEnum<MorePylonVariant> MORE_PYLON_VARIANT = PropertyEnum.create("variant", MorePylonVariant.class);
+    public static final PropertyEnum<MoreSpreaderVariant> MORE_SPREADER_VARIANT = PropertyEnum.create("variant", MoreSpreaderVariant.class);
     // BlockAlfPortal
     public static final PropertyEnum<AlfheimPortalState> ALFHEIMPORTAL_STATE = PropertyEnum.create("state", AlfheimPortalState.class);
     private BotaniverseStateProps() {

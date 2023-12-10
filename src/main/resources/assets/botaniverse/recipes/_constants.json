@@ -1,5 +1,32 @@
 [
-
+  {
+    "ingredient": {
+      "type": "forge:ore_dict",
+      "ore": "asgardwood"
+    },
+    "name": "ASGARDWOOD"
+  },
+  {
+    "ingredient": {
+      "type": "forge:ore_dict",
+      "ore": "alfheimwood"
+    },
+    "name": "ALFHEIMWOOD"
+  },
+  {
+    "ingredient": {
+      "type": "forge:ore_dict",
+      "ore": "muspelheimwood"
+    },
+    "name": "MUSPELHEIMWOOD"
+  },
+  {
+    "ingredient": {
+      "type": "forge:ore_dict",
+      "ore": "nilfheimwood"
+    },
+    "name": "NILFHEIMWOOD"
+  },
   {
     "ingredient": {
       "type": "forge:ore_dict",

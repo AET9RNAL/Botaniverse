@@ -9,10 +9,4 @@ public final class LibItemNames {
     public static final String SPARK_ASGARD = "spark_asgard";
     public static final String MORERUNE = "morerune";
 
-
-
-
-
-    public static final String ItemTest = "item_test";
-
 }

@@ -1,0 +1,27 @@
+{
+  "result": {
+    "item": "botaniverse:morewood",
+    "data": 1,
+    "count": 8
+  },
+  "pattern": [
+    "WWW",
+    "WRW",
+    "WWW"
+  ],
+  "type": "forge:ore_shaped",
+  "key":
+  {
+    "R":
+    {
+      "item": "#RUNEMUSPELHEIM"
+    },
+    "W":
+    {
+      "item": "botaniverse:morewood",
+      "data": 0
+
+
+    }
+  }
+}

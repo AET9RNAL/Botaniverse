@@ -1,0 +1,26 @@
+{
+  "result": {
+    "item": "botaniverse:morewood",
+    "data": 0,
+    "count": 8
+  },
+  "pattern": [
+    "WWW",
+    "WRW",
+    "WWW"
+  ],
+  "type": "forge:ore_shaped",
+  "key":
+  {
+    "R":
+    {
+      "item": "#RUNENILFHEIM"
+    },
+    "W":
+    {
+      "item": "#DREAMWOOD"
+
+
+    }
+  }
+}

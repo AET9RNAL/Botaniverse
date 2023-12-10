@@ -32,7 +32,7 @@ public final class Config {
         try {
             config.load();
 
-            //Category Pools
+            //Category Pools//
             config.setCategoryComment("Configuration Pools", "Change the capacites of the respective pools according to your needs. Don't put dumb values in here,You WILL crash!");
             //Capacity
             PoolCapacityNilfheim = config.getInt("PoolCapacityNilfheim", "Configuration Pools", 10000000, 0, Integer.MAX_VALUE, "Capacity for Nilfheim Pool");
@@ -42,7 +42,7 @@ public final class Config {
 
             //Transfer rate to item
             TransferIN_OUT_Global = config.getInt("PoolTransferRateIN_OUT", "Configuration Pools", 10000, 0, Integer.MAX_VALUE, "This here changes how fast pools are able to transfer mana IN/OUT when charging or discharging mana items.(When you throw a mana tablet in the pool for ex.)This is a global rate, meaning it will affect each pool added by the mod.");
-            //Category Sparks
+            //Category Sparks//
 
             //Conductivity
             config.setCategoryComment("Configuration Sparks", "Change the parameters of sparks according to your needs. Don't put dumb values in here,You WILL crash!");

@@ -1,0 +1,25 @@
+{
+  "result": {
+    "item": "botaniverse:morewood",
+    "data": 7
+  },
+  "pattern": [
+    "WG ",
+    "   ",
+    "   "
+  ],
+  "type": "forge:ore_shaped",
+  "key":
+  {
+    "G":
+    {
+      "item": "#DUSTGLOWSTONE"
+    },
+    "W":
+    {
+      "item": "botaniverse:morewood",
+      "data": 3
+
+    }
+  }
+}

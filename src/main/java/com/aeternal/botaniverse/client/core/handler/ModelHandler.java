@@ -40,9 +40,6 @@ public final class ModelHandler {
         }
     }
 
-
-
-
     public static void registerItemAllMeta(Item item, int range) {
         registerItemMetas(item, range, i -> item.getRegistryName().getPath());
     }
